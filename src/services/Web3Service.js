@@ -1,9 +1,6 @@
 import Web3 from "web3";
 import ABI from "./ABI.json";
 
-//Primeiro contrato: 0x5a505653ADF877DB231F80164C1eFA804B38eb43
-//Segundo contrato: 0xa6044f7d6f002d115d40407367059b06a3fcbadd
-
 const CONTRACT_ADDRESS = "0xa6044f7d6f002d115d40407367059b06a3fcbadd";
 
 export async function doLogin() {

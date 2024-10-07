@@ -3,7 +3,7 @@
 import React from 'react';
 
 export default function Footer() {
-	const contractAddress = "0x5a505653ADF877DB231F80164C1eFA804B38eb43";
+	const contractAddress = "0xa6044f7d6f002d115d40407367059b06a3fcbadd";
 	const polygonScanContractAddress = `https://amoy.polygonscan.com/address/${contractAddress}`;
 
 	return (

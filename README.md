@@ -4,11 +4,11 @@
 
 # **Site Online Pelo Vercel**
 - **Visite nosso site**: [BetCandidate](https://betcandidate.vercel.app/)
-- **Veja o contrato no Polygonscan**:
+- **Veja o contrato no Polygonscan**: [Contrato BetCandidate](https://amoy.polygonscan.com/address/0xa6044f7d6f002d115d40407367059b06a3fcbadd)
 
-[![betcandidate_home.png](https://i.postimg.cc/dQk1Vx5V/betcandidate-home.png)](https://postimg.cc/K4bF9JX6)
+[![betcandidate_home.png](https://i.postimg.cc/bYHD5cXM/betcandidate-home.png)](https://postimg.cc/rzswdHwC)
 
-[![betcandidate_bet.png](https://i.postimg.cc/05TNM04d/betcandidate-bet.png)](https://postimg.cc/MXYwgVqv)
+[![betcandidate_bet.png](https://i.postimg.cc/m2LzfXBr/betcandidate-bet.png)](https://postimg.cc/PN7r1MLG)
 
 [![amoy-polygonscan-contractaddress.png](https://i.postimg.cc/7b8jH6m0/amoy-polygonscan-contractaddress.png)](https://postimg.cc/jncMvsVS)
 

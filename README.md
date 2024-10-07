@@ -51,7 +51,7 @@ O **BetCandidate** permite que os usuários participem de apostas descentralizad
 
 - **Conexão com MetaMask**: Os usuários podem conectar suas carteiras MetaMask para interagir com a plataforma.
 
-- **Verificação de Rede**: O aplicativo verifica se o usuário está conectado à rede Sepolia e solicita a mudança de rede, se necessário.
+- **Verificação de Rede**: O aplicativo verifica se o usuário está conectado à rede Amoy e solicita a mudança de rede, se necessário.
 
 - **Apostar em Candidatos**: Os usuários podem apostar em um dos candidatos disponíveis até a data limite de apostas.
 

@@ -12,7 +12,7 @@
 
 [![amoy-polygonscan-contractaddress.png](https://i.postimg.cc/7b8jH6m0/amoy-polygonscan-contractaddress.png)](https://postimg.cc/jncMvsVS)
 
-[![metamask_connection.png](https://i.postimg.cc/HkQ8shsy/metamask-connection.png)](https://postimg.cc/mPggmV9L) [![metamask_permission.png](https://i.postimg.cc/zGmRNr5N/metamask-permission.png)](https://postimg.cc/KRNY7CRp)
+[![metamask_connection.png =300x550](https://i.postimg.cc/HkQ8shsy/metamask-connection.png)](https://postimg.cc/mPggmV9L) [![metamask_permission.png =300x550](https://i.postimg.cc/zGmRNr5N/metamask-permission.png)](https://postimg.cc/KRNY7CRp)
 
 
 

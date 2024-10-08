@@ -179,7 +179,7 @@ No GitHub, clique em "Fork" no canto superior direito da página do repositório
 2. **Clone o repositório forkado**:
 
 ```bash   
-git clone https://github.com/seu-usuario/BetCandidate.git
+git clone https://github.com/seu-usuario/NextBetCandidate.git
 ```
 3. **Crie uma nova branch**:
 

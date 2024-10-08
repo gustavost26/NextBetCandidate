@@ -3,7 +3,7 @@
 **BetCandidate** é uma plataforma de apostas on-chain que permite aos usuários apostarem em quem será o próximo presidente dos Estados Unidos. O aplicativo é construído com Next.js e React, utilizando contratos inteligentes na rede Polygon (Amoy Testnet) para garantir transparência e segurança em todas as transações.
 
 # **Site Online Pelo Vercel**
-- **Visite nosso site**: [BetCandidate](https://betcandidate.vercel.app/)
+- **Visite nosso site**: [BetCandidate](https://nextbetcandidate.vercel.app/)
 - **Veja o contrato no Polygonscan**: [Contrato BetCandidate](https://amoy.polygonscan.com/address/0xa6044f7d6f002d115d40407367059b06a3fcbadd)
 
 [![betcandidate_home.png](https://i.postimg.cc/bYHD5cXM/betcandidate-home.png)](https://postimg.cc/rzswdHwC)

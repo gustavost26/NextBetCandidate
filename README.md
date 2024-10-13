@@ -67,7 +67,7 @@ O **BetCandidate** permite que os usuários participem de apostas descentralizad
 
 # Tecnologias Utilizadas
 
-- **Next.js 14.3.3**: Framework React para desenvolvimento web.
+- **Next.js 14.2.14**: Framework React para desenvolvimento web.
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 - **Web3.js**: Biblioteca para interagir com o Ethereum blockchain.
 - **MetaMask**: Extensão de navegador para interação com a blockchain Ethereum.
@@ -224,8 +224,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 
 
 # Agradecimentos
-Agradecemos a todos os colaboradores e usuários que ajudam a melhorar o BetCandidate. E ao professor Luiz, que me auxiliou nesse projeto.
-
+Agradeço ao professor Luiz, que me inspirou a desenvolver esse projeto.
 
 ---
 

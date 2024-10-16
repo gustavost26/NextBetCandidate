@@ -1,6 +1,6 @@
-# **BetCandidate**
+# **NextBetCandidate**
 
-**BetCandidate** é uma plataforma de apostas on-chain que permite aos usuários apostarem em quem será o próximo presidente dos Estados Unidos. O aplicativo é construído com Next.js e React, utilizando contratos inteligentes na rede Polygon (Amoy Testnet) para garantir transparência e segurança em todas as transações.
+**NextBetCandidate** é uma plataforma de apostas on-chain que permite aos usuários apostarem em quem será o próximo presidente dos Estados Unidos. O aplicativo é construído com Next.js e React, utilizando contratos inteligentes na rede Polygon (Amoy Testnet) para garantir transparência e segurança em todas as transações.
 
 # **Site Online Pelo Vercel**
 - **Visite nosso site**: [BetCandidate](https://nextbetcandidate.vercel.app/)
@@ -14,9 +14,6 @@
 
 
 [![metamask_connection.png](https://i.postimg.cc/MZjtfGQB/metamask-connection.png)](https://postimg.cc/XX49T4xN) [![metamask_permission.png](https://i.postimg.cc/WbL8GPGH/metamask-permission.png)](https://postimg.cc/XXL9WmDf)
-
-metamask_connection
-
 
 
 ---
@@ -41,7 +38,7 @@ metamask_connection
 
 # Visão Geral
 
-O **BetCandidate** permite que os usuários participem de apostas descentralizadas sobre o resultado das eleições presidenciais americanas. Utilizando a carteira MetaMask, os usuários podem conectar-se à plataforma, escolher seu candidato preferido e apostar uma quantidade desejada de POL(MATIC). Após o encerramento das eleições e divulgação do resultado oficial, os vencedores podem reivindicar seus prêmios diretamente na plataforma.
+O **NextBetCandidate** permite que os usuários participem de apostas descentralizadas sobre o resultado das eleições presidenciais americanas. Utilizando a carteira MetaMask, os usuários podem conectar-se à plataforma, escolher seu candidato preferido e apostar uma quantidade desejada de POL(MATIC). Após o encerramento das eleições e divulgação do resultado oficial, os vencedores podem reivindicar seus prêmios diretamente na plataforma.
 
 
 ---
@@ -67,6 +64,7 @@ O **BetCandidate** permite que os usuários participem de apostas descentralizad
 
 # Tecnologias Utilizadas
 
+- **Remix**: Ferramenta para desenvolvimento e deploy de contratos inteligentes na blockchain da Ethereum.
 - **Next.js 14.2.14**: Framework React para desenvolvimento web.
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 - **Web3.js**: Biblioteca para interagir com o Ethereum blockchain.
@@ -103,7 +101,7 @@ git clone https://github.com/gustavost26/NextBetCandidate.git
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd BetCandidate/dapp
+cd NextBetCandidate
 ```
 3. Instale as dependências:
 
@@ -230,7 +228,7 @@ Agradeço ao professor Luiz, que me inspirou a desenvolver esse projeto.
 
 
 # Notas Adicionais
-- **Segurança**: Certifique-se de nunca compartilhar suas chaves privadas. O BetCandidate não solicita nem armazena informações privadas dos usuários.
+- **Segurança**: Certifique-se de nunca compartilhar suas chaves privadas. O NextBetCandidate não solicita nem armazena informações privadas dos usuários.
 - **Testnet**: Este aplicativo utiliza a Amoy Testnet. Os POL(MATIC) utilizados são de teste e não possuem valor real.
 - **Responsabilidade**: Este projeto é para fins educacionais e de demonstração. Não nos responsabilizamos por quaisquer perdas ou danos decorrentes do uso deste aplicativo.
 
@@ -269,4 +267,4 @@ Se você encontrar problemas ao executar o aplicativo, tente as seguintes etapas
 
 ---
 
-Esperamos que você aproveite o BetCandidate! Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
+Esperamos que você aproveite o NextBetCandidate! Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
